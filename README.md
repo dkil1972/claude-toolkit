@@ -7,6 +7,7 @@ A Claude Code plugin providing shared skills for software development workflows.
 | Skill | Invocation | Description |
 |-------|-----------|-------------|
 | `discover` | `/discover` | Feature discovery conversation that produces structured spec files matching your project's conventions |
+| `note` | `/note` | Capture a note to your Obsidian vault inbox |
 
 ## Installation
 
